@@ -194,8 +194,8 @@
 1.  新增
     - 页面浏览时长支持单页面
     - 所有事件新增 `$viewport_width`  和 `$viewport_height` 属性
-    - 点击事件新增 `$page_x` 和 `$page_y` 属性（SCA 需升级到 0.5 及以上版本）
-    - 新增采集页面高度 `$page_height` 属性插件（SCA 需升级到 0.5 及以上版本）
+    - 点击事件新增 `$page_x` 和 `$page_y` 属性
+    - 新增采集页面高度 `$page_height` 属性插件
     - `$WebPageLeave` 新增 `$viewport_position` 属性
 2.  修复
     - 修复 `login` 回调执行两次的问题
